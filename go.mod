@@ -1,4 +1,4 @@
-module github.com/jkacme/jkacme.github.io
+module github.com/JKACME/jkacme.github.io
 
 go 1.21
 
