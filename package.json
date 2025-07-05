@@ -1,15 +1,12 @@
 {
-  "name": "hugolify-template",
-  "version": "1.16.0",
-  "homepage": "https://www.hugolify.io",
-  "repository": "https://github.com/hugolify/hugolify-template",
-  "bugs": {
-    "url": "https://github.com/hugolify/hugolify-template/issues"
-  },
+  "name": "jkacme.github.io",
+  "version": "1.0.0",
+  "homepage": "https://jkacme.github.io",
+  "repository": "https://github.com/JKACME/jkacme.github.io",
   "author": {
-    "email": "sebousan@gmail.com",
-    "name": "Sébastien Moulène",
-    "url": "https://www.sebastienmoulene.com/"
+    "email": "jkacme@hacari.org",
+    "name": "JKACME Foundation Group",
+    "url": "https://jkacme.github.io/"
   },
   "license": "MIT",
   "devDependencies": {
